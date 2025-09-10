@@ -1,5 +1,9 @@
 # Vehicle CO2 Emissions Estimation
 
+## Introduction
+
+This notebook documents how we train a Linear Regression model from a given dataset to predict the CO2 emissions of vehicles . It includes EDA, model training and evaluation.
+
 ## About Dataset
 
 **Description:**
